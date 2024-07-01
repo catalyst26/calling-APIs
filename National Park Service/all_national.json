@@ -1,0 +1,257 @@
+[
+  [
+    "Acadia National Park",
+    "ME",
+    "https://www.nps.gov/acad/index.htm"
+  ],
+  [
+    "Arches National Park",
+    "UT",
+    "https://www.nps.gov/arch/index.htm"
+  ],
+  [
+    "Badlands National Park",
+    "SD",
+    "https://www.nps.gov/badl/index.htm"
+  ],
+  [
+    "Big Bend National Park",
+    "TX",
+    "https://www.nps.gov/bibe/index.htm"
+  ],
+  [
+    "Biscayne National Park",
+    "FL",
+    "https://www.nps.gov/bisc/index.htm"
+  ],
+  [
+    "Black Canyon Of The Gunnison National Park",
+    "CO",
+    "https://www.nps.gov/blca/index.htm"
+  ],
+  [
+    "Bryce Canyon National Park",
+    "UT",
+    "https://www.nps.gov/brca/index.htm"
+  ],
+  [
+    "Canyonlands National Park",
+    "UT",
+    "https://www.nps.gov/cany/index.htm"
+  ],
+  [
+    "Capitol Reef National Park",
+    "UT",
+    "https://www.nps.gov/care/index.htm"
+  ],
+  [
+    "Carlsbad Caverns National Park",
+    "NM",
+    "https://www.nps.gov/cave/index.htm"
+  ],
+  [
+    "Channel Islands National Park",
+    "CA",
+    "https://www.nps.gov/chis/index.htm"
+  ],
+  [
+    "Congaree National Park",
+    "SC",
+    "https://www.nps.gov/cong/index.htm"
+  ],
+  [
+    "Crater Lake National Park",
+    "OR",
+    "https://www.nps.gov/crla/index.htm"
+  ],
+  [
+    "Cuyahoga Valley National Park",
+    "OH",
+    "https://www.nps.gov/cuva/index.htm"
+  ],
+  [
+    "Death Valley National Park",
+    "CA,NV",
+    "https://www.nps.gov/deva/index.htm"
+  ],
+  [
+    "Dry Tortugas National Park",
+    "FL",
+    "https://www.nps.gov/drto/index.htm"
+  ],
+  [
+    "Everglades National Park",
+    "FL",
+    "https://www.nps.gov/ever/index.htm"
+  ],
+  [
+    "Gateway Arch National Park",
+    "MO",
+    "https://www.nps.gov/jeff/index.htm"
+  ],
+  [
+    "Glacier National Park",
+    "MT",
+    "https://www.nps.gov/glac/index.htm"
+  ],
+  [
+    "Grand Canyon National Park",
+    "AZ",
+    "https://www.nps.gov/grca/index.htm"
+  ],
+  [
+    "Grand Teton National Park",
+    "WY",
+    "https://www.nps.gov/grte/index.htm"
+  ],
+  [
+    "Great Basin National Park",
+    "NV",
+    "https://www.nps.gov/grba/index.htm"
+  ],
+  [
+    "Great Smoky Mountains National Park",
+    "NC,TN",
+    "https://www.nps.gov/grsm/index.htm"
+  ],
+  [
+    "Guadalupe Mountains National Park",
+    "TX",
+    "https://www.nps.gov/gumo/index.htm"
+  ],
+  [
+    "Haleakalā National Park",
+    "HI",
+    "https://www.nps.gov/hale/index.htm"
+  ],
+  [
+    "Hawaiʻi Volcanoes National Park",
+    "HI",
+    "https://www.nps.gov/havo/index.htm"
+  ],
+  [
+    "Hot Springs National Park",
+    "AR",
+    "https://www.nps.gov/hosp/index.htm"
+  ],
+  [
+    "Indiana Dunes National Park",
+    "IN",
+    "https://www.nps.gov/indu/index.htm"
+  ],
+  [
+    "Isle Royale National Park",
+    "MI",
+    "https://www.nps.gov/isro/index.htm"
+  ],
+  [
+    "Joshua Tree National Park",
+    "CA",
+    "https://www.nps.gov/jotr/index.htm"
+  ],
+  [
+    "Kenai Fjords National Park",
+    "AK",
+    "https://www.nps.gov/kefj/index.htm"
+  ],
+  [
+    "Kobuk Valley National Park",
+    "AK",
+    "https://www.nps.gov/kova/index.htm"
+  ],
+  [
+    "Lassen Volcanic National Park",
+    "CA",
+    "https://www.nps.gov/lavo/index.htm"
+  ],
+  [
+    "Mammoth Cave National Park",
+    "KY",
+    "https://www.nps.gov/maca/index.htm"
+  ],
+  [
+    "Mesa Verde National Park",
+    "CO",
+    "https://www.nps.gov/meve/index.htm"
+  ],
+  [
+    "Mount Rainier National Park",
+    "WA",
+    "https://www.nps.gov/mora/index.htm"
+  ],
+  [
+    "North Cascades National Park",
+    "WA",
+    "https://www.nps.gov/noca/index.htm"
+  ],
+  [
+    "Olympic National Park",
+    "WA",
+    "https://www.nps.gov/olym/index.htm"
+  ],
+  [
+    "Petrified Forest National Park",
+    "AZ",
+    "https://www.nps.gov/pefo/index.htm"
+  ],
+  [
+    "Pinnacles National Park",
+    "CA",
+    "https://www.nps.gov/pinn/index.htm"
+  ],
+  [
+    "Rocky Mountain National Park",
+    "CO",
+    "https://www.nps.gov/romo/index.htm"
+  ],
+  [
+    "Saguaro National Park",
+    "AZ",
+    "https://www.nps.gov/sagu/index.htm"
+  ],
+  [
+    "Shenandoah National Park",
+    "VA",
+    "https://www.nps.gov/shen/index.htm"
+  ],
+  [
+    "Theodore Roosevelt National Park",
+    "ND",
+    "https://www.nps.gov/thro/index.htm"
+  ],
+  [
+    "Virgin Islands National Park",
+    "VI",
+    "https://www.nps.gov/viis/index.htm"
+  ],
+  [
+    "Voyageurs National Park",
+    "MN",
+    "https://www.nps.gov/voya/index.htm"
+  ],
+  [
+    "White Sands National Park",
+    "NM",
+    "https://www.nps.gov/whsa/index.htm"
+  ],
+  [
+    "Wind Cave National Park",
+    "SD",
+    "https://www.nps.gov/wica/index.htm"
+  ],
+  [
+    "Yellowstone National Park",
+    "ID,MT,WY",
+    "https://www.nps.gov/yell/index.htm"
+  ],
+  [
+    "Yosemite National Park",
+    "CA",
+    "https://www.nps.gov/yose/index.htm"
+  ],
+  [
+    "Zion National Park",
+    "UT",
+    "https://www.nps.gov/zion/index.htm"
+  ]
+]
